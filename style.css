@@ -173,7 +173,7 @@ nav {
 .aboutme {
     background-color: var(--clr-dark);
     color: var(--clr-light);
-    background-image: url(../img/deskpic.jpg);
+    background-image: url(../deskpic.jpg);
     background-blend-mode: multiply;
     background-size: cover;
     text-align: center;
